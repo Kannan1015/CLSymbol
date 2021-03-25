@@ -10,7 +10,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <RepositoryUrl>https://github.com/Kannan1015/CLSymbol</RepositoryUrl>
   </PropertyGroup>
   
