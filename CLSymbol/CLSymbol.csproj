@@ -11,6 +11,7 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <Version>1.0.3</Version>
+    <RepositoryUrl>https://github.com/Kannan1015/CLSymbol</RepositoryUrl>
   </PropertyGroup>
   
   <ItemGroup>
@@ -19,7 +20,7 @@
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>C:\Users\KannanSubramaniyam\source\repos\3CLSymbol\CLSymbol\CLSymbol.xml</DocumentationFile>
-    <DebugType>full</DebugType>
+    <DebugType>portable</DebugType>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
 
